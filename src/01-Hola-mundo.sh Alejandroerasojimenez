@@ -1,0 +1,13 @@
+Primero hacemos:
+Nano 01-Hola-mundo.sh
+
+#####
+  #!/bin/bash
+    echo Hola mundo! 
+#####
+
+Luego hacemos:
+Chmod +x 01-Hola-Mundo.sh
+
+Y al final:
+./01-Hola-mundo.sh
